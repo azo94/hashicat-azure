@@ -14,6 +14,9 @@ cat << EOM > /var/www/html/index.html
   Welcome to ${PREFIX}'s app. Replace this text with your own.
   Welcome to ${PREFIX}'s app. Replace this text with your own.
   Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
   
   </div>
